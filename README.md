@@ -32,8 +32,7 @@ Este repositório é aberto para consulta, mas o conteúdo é de autoria própri
 ## 📬 Contato & Comunidade
 
 - 🌐 LinkedIn: [Marcela Amorim](https://www.linkedin.com/in/amorim-marcela/)  
-- 💌 Para conversas e parcerias: [linktree](https://linktr.ee/qa.marcelaamorim)  
-- 🐙 GitHub: [marcelaamorim](https://github.com/marcelaamorim)  
+- 💌 Let's Chat: [linktree](https://linktr.ee/qa.marcelaamorim)  
 
 ---
 
