@@ -16,14 +16,6 @@ A ideia é simples: centralizar conhecimento, registrar a jornada e abrir espaç
 
 ---
 
-## 📂 Estrutura do repositório
-
-- `/2025/` → Talks de 2025 (TDC, Minas Testing, DevOpsDay, etc.)  
-- `/2024/` → Talks de 2024  
-- `/extra/` → Workshops, treinamentos e conteúdos paralelos  
-
----
-
 ## 🤝 Importante  
 Este repositório é aberto para consulta, mas o conteúdo é de autoria própria.  
 
